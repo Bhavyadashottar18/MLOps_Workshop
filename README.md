@@ -18,7 +18,7 @@ Complete implementation and explanation of this repository is recorded in these 
 [Part10](https://www.youtube.com/watch?v=KHD2oyP8W94&list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f&index=10)
 
 
-For any further inquiries or questions, please contact me at mo.ghodrati95@gmail.com .
+For any further inquiries or questions, please contact me at mo.ghodrati95@gmail.com.
 
 ![ML Loop](./architecture/ml-loop.PNG)
 
